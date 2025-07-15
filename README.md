@@ -25,3 +25,6 @@ TTS（Text-To-Speech） 是一种将文字转换为自然语音的技术，广�
 
 低延迟响应 ：适合实时交互场景。
 
+下载
+
+ https://www.jian27.com/html/2656.html
